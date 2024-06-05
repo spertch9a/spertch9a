@@ -40,7 +40,6 @@
 <img src="https://img.shields.io/badge/Git-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Git-GitHug-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Git-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Git-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a"/>
 <!-- Shell -->
 <img src="https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/>
 <!-- Tools -->
@@ -49,10 +48,8 @@
 <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Tools-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=digitalOcean&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/npm/dependency-version/:packageName/:dependency"/>
 <!-- Servers -->
 <img src="https://img.shields.io/badge/Servers-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Servers-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a"/>
 </p>
 <br>
 
