@@ -29,12 +29,13 @@
 ### Technologies and Tools
 <p align="center">
 <!-- OS -->
-<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
+<img src="https://shields.io/badge/Windows--9cf?logo=Windows&style=social"/>
 <!-- Editors -->
 <img src="https://img.shields.io/badge/Editor-VS_CODE-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a"/>
 <!-- CODE Languages -->
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <!-- Git stuff -->
 <img src="https://img.shields.io/badge/Git-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Git-GitHug-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
@@ -43,10 +44,12 @@
 <!-- Shell -->
 <img src="https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/>
 <!-- Tools -->
+<img src="https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500" />
 <img src="https://img.shields.io/badge/Tools-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Tools-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=digitalOcean&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/npm/dependency-version/:packageName/:dependency"/>
 <!-- Servers -->
 <img src="https://img.shields.io/badge/Servers-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Servers-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a"/>
