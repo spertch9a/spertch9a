@@ -60,17 +60,17 @@
 <br>
 <br>
 <p align="center">
-  <i> Let's connect!:incoming_envelope: </i>
+  <i> Let's connect!📨 </i>
 </p>
 <p align="center">
    
-  <a href="https://www.linkedin.com/in/aimenbahri/" target="_blank">
+  <a href="https://www.linkedin.com/in/oussama-fortas" target="_blank">
   	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:bahri.aimen48@gmail.com" target="_blank">
+  <!-- <a href="mailto:bahri.aimen48@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://web.facebook.com/aimene.bahri.5" target="_blank">
+  </a> -->
+  <a href="https://www.facebook.com/spertch9a/" target="_blank">
   	<img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
