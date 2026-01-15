@@ -19,10 +19,9 @@
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/PirateAIM/
-[2]: https://web.facebook.com/aimene.bahri.5
-[3]: https://www.linkedin.com/in/aimenbahri/
-[4]: https://github.com/spertch9a
+[1]: https://web.facebook.com/spertch9a
+[2]: https://www.linkedin.com/in/oussama-fortas/
+[3]: https://github.com/spertch9a
 
 ### Technologies and Tools
 <p align="center">
@@ -53,7 +52,6 @@
 
 ### Trophies
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=spertch9a&margin-w=25" alt="Aimene BAHRI's github trophies"/>
 </p>
 <br>
 <br>
@@ -65,9 +63,6 @@
   <a href="https://www.linkedin.com/in/oussama-fortas" target="_blank">
   	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- <a href="mailto:bahri.aimen48@gmail.com" target="_blank">
-	<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a> -->
   <a href="https://www.facebook.com/spertch9a/" target="_blank">
   	<img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
