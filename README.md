@@ -7,8 +7,6 @@
 
 ### KNOW ME BETTER
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spertch9a&show_icons=true&theme=dracula&line_height=27" alt="Aimene BAHRI's github stats"/>
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spertch9a)](https://github.com/anuraghazra/github-readme-stats)
 
   
